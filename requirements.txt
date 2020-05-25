@@ -1,8 +1,11 @@
-defusedxml~=0.5
-Jinja2~=2.10
-jsmin~=2.2
-python-pam~=1.8
-PyYAML~=5.1
-six~=1.12
+#
+# SeafDAV
+#
+defusedxml
+# Jinja2 : install by python3-jinja2
+jsmin
+python-pam
+PyYAML
+# six : already installed by Seahub requirements
 lxml
-sqlalchemy
+# sqlalchemy : install by python3-sqlalchemy
