@@ -1,0 +1,11 @@
+#
+# SeafDAV
+#
+defusedxml
+# Jinja2 : install by python3-jinja2
+jsmin
+python-pam
+PyYAML
+# six : already installed by Seahub requirements
+lxml
+# sqlalchemy : install by python3-sqlalchemy
